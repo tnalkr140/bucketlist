@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "bucket-list",
-    "slug": "bucket-list",
+    "name": "react-native-todo",
+    "slug": "react-native-todo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Icon_new.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash_new.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#E2E4CF"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -20,7 +20,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#E2E4CF"
       }
     },
     "web": {
